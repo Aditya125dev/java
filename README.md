@@ -72,7 +72,7 @@ Each experiment demonstrates different core Java concepts including OOP, Excepti
 ## ▶️ How to Run
 
 1. Clone the repository
-   git clone https://github.com/Aditya125dev/java
+- git clone https://github.com/Aditya125dev/java
 2. Open the project in any Java IDE  
    - IntelliJ IDEA  
    - Eclipse  
